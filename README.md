@@ -1,6 +1,12 @@
-> As a user,
-> So that I can view my bookmarks,
-> I want to see them listed on the page.
+## User Stories
+
+As a user,
+So that I can view my bookmarks,
+I want to see them listed on the page.
+
+As a user,
+So that I can create a list of bookmarks
+I want to add new bookmarks to the bookmark list.
 
 ![Domain Model](domain_model.png)
 
